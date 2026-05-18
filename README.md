@@ -1,3 +1,3 @@
-# C-learning-
+# C & C++ -learning-
 
-Contribution to krish repo.
+Learing  open source contribution.
