@@ -1,3 +1,4 @@
-.crun
+*.crun/
 *.exe
 *.o
+*.trunk/
