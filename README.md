@@ -23,4 +23,7 @@ I am currently working on strengthening my logical foundations in programming. T
 This repository is a fork used for practice and community contribution. I am actively working on refactoring the code to follow industry-standard naming conventions and documentation.
 
 ---
+
 *Created and maintained by [TScom-dew](https://github.com/TScom-dew)*
+
+
